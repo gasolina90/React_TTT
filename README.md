@@ -4,6 +4,9 @@ A quick build of tic tac toe using React in Javascript. To demonstrate JavaScrip
 Sources referenced:
 * [React in VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
     * Install Node.js for Windows
+    * Install npm
+        * Install Docker for Windows
+            * Install Windows subsystem for Lnux
 * [React Quick Start](https://react.dev/learn)
 
 ## Environment
@@ -28,5 +31,9 @@ Sources referenced:
     OS: Windows_NT x64 10.0.26200
 
 * Programming Language:
+
     Javascript
-    Python
+
+    HTML
+
+    CSS
